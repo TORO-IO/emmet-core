@@ -1,0 +1,16 @@
+{
+  "name": "emmet-core",
+  "main": "emmet.js",
+  "description": "emmet feature for ace editor: forked from https://github.com/cloud9ide/emmet-core",
+  "main": "emmet.js",
+  "authors": [
+    "https://github.com/cloud9ide/emmet-core", "https://github.com/cloud9ide/emmet-core"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "emmet",
+    "emmet-core"
+  ],
+  "homepage": ["https://github.com/TORO-IO/emmet-core", "https://github.com/cloud9ide/emmet-core"],
+  "moduleType": []
+}
